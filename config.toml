@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mull Reports"
+theme = "temple"
+enableGitInfo = true
