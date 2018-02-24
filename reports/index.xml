@@ -19,5 +19,14 @@
       <description>Mull Report | OpenSSL_destestMull Report: OpenSSL_destest24.02.2018 17:23:02Tests:20Mutants:144Survived Mutants:13Killed Mutants:131Total time:11s 342msExecution Time:1s 739msWeakly Killed Mutants:0Strongly Killed Mutants:131Max distance:3Min distance:1Mean distance:2Mutation Score:91%LegendTests:a total amount of tests. Each test can be affected by zero or more mutants.Mutants:a total amount of mutations. Each mutation can be reachable by one or more tests.Survived Mutants:mutants that are not caused any tests to fail.Killed Mutants:mutants that caused one or more tests to fail.Weakly Killed Mutants:mutants that caused at least one test to fail.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://mull-project.github.io/html-reports/reports/openssl_destest_1519495904/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mull-project.github.io/html-reports/reports/openssl_destest_1519495904/</guid>
+      <description>Mull Report | OpenSSL_destestMull Report: OpenSSL_destest24.02.2018 19:11:44Tests:20Mutants:144Survived Mutants:13Killed Mutants:131Total time:10s 843msExecution Time:1s 467msWeakly Killed Mutants:0Strongly Killed Mutants:131Max distance:3Min distance:1Mean distance:2Mutation Score:91%LegendTests:a total amount of tests. Each test can be affected by zero or more mutants.Mutants:a total amount of mutations. Each mutation can be reachable by one or more tests.Survived Mutants:mutants that are not caused any tests to fail.Killed Mutants:mutants that caused one or more tests to fail.Weakly Killed Mutants:mutants that caused at least one test to fail.</description>
+    </item>
+    
   </channel>
 </rss>
