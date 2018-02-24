@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/reports/openssl_igetest_1515874836/</loc>
+    <loc>https://mull-project.github.io/html-reports/reports/openssl_igetest_1515874836/</loc>
     <lastmod>2018-02-24T16:01:22+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mull-project.github.io/html-reports/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2018-02-24T16:01:22+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/reports/</loc>
+    <loc>https://mull-project.github.io/html-reports/</loc>
     <lastmod>2018-02-24T16:01:22+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mull-project.github.io/html-reports/reports/</loc>
+    <lastmod>2018-02-24T16:01:22+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mull-project.github.io/html-reports/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mull Reports</title>
-    <link>http://example.org/</link>
+    <link>https://mull-project.github.io/html-reports/</link>
     <description>Recent content on Mull Reports</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mull-project.github.io/html-reports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/reports/openssl_igetest_1515874836/</link>
+      <link>https://mull-project.github.io/html-reports/reports/openssl_igetest_1515874836/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/reports/openssl_igetest_1515874836/</guid>
+      <guid>https://mull-project.github.io/html-reports/reports/openssl_igetest_1515874836/</guid>
       <description>Mull Report | OpenSSL_igetest Mull Report: OpenSSL_igetest13.01.2018 21:20:06Tests:10Mutants:118Survived Mutants:6Killed Mutants:112Total time:29s 981msExecution Time:1s 331msWeakly Killed Mutants:29Strongly Killed Mutants:83Max distance:2Min distance:1Mean distance:1Mutation Score:95%LegendTests:a total amount of tests. Each test can be affected by zero or more mutants.Mutants:a total amount of mutations. Each mutation can be reachable by one or more tests.Survived Mutants:mutants that are not caused any tests to fail.Killed Mutants:mutants that caused one or more tests to fail.Weakly Killed Mutants:mutants that caused at least one test to fail.</description>
     </item>
     
