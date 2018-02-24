@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mull-project.github.io/html-reports/"
 languageCode = "en-us"
 title = "Mull Reports"
 theme = "temple"
