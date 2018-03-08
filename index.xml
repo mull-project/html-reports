@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mull-project.github.io/html-reports/reports/openssl-bio-enc-test-hot/</guid>
-      <description>Mull Report | OpenSSL_bio_enc_testMull Report: OpenSSL_bio_enc_test24.02.2018 20:22:23Tests:6Mutants:708Test runs:2667Survived Mutants:405Killed Mutants:303Total time:2m 40s 439msExecution Time:2m 0s 14msWeakly Killed Mutants:10Strongly Killed Mutants:293Max distance:12Min distance:2Average distance:6Mutation Score:43%LegendTests:a total amount of tests. Each test can be affected by zero or more mutants.Mutants:a total amount of mutations. Each mutation can be reachable by one or more tests.Survived Mutants:mutants that are not caused any tests to fail.Killed Mutants:mutants that caused one or more tests to fail.Weakly Killed Mutants:mutants that caused at least one test to fail.</description>
+      <description>Mull Report | OpenSSL_bio_enc_testMull Report: OpenSSL_bio_enc_test08.03.2018 08:50:13Tests:6Mutants:385Test runs:1333Survived Mutants:187Killed Mutants:198Total time:1m 23s 830msExecution Time:56s 855msWeakly Killed Mutants:5Strongly Killed Mutants:193Max distance:12Min distance:2Average distance:6Mutation Score:52%LegendTests:a total amount of tests. Each test can be affected by zero or more mutants.Mutants:a total amount of mutations. Each mutation can be reachable by one or more tests.Survived Mutants:mutants that are not caused any tests to fail.Killed Mutants:mutants that caused one or more tests to fail.Weakly Killed Mutants:mutants that caused at least one test to fail.</description>
     </item>
     
     <item>
